@@ -8,4 +8,3 @@ $labels['policy_tag2'] = 'Markerings niveau #2';
 $labels['policy_kill'] = '"Her stopper festen" niveau';
 $labels['spamnopolicies'] = 'Ingen politikker tilgængelige';
 ?>
- 
